@@ -54,6 +54,7 @@ Set up professional profiles on platforms such as GitHub and LinkedIn.
 
 ### Task 3 – Platforms Exploration
 Completed a coding challenge and created a Google Form for a digital literacy awareness quiz.
+https://docs.google.com/forms/d/e/1FAIpQLSedYkwwQ8lQknkIAvPFPSlp76BeqC8u3P5nXiesVsDEIKoz0w/viewform
 
 ### Task 4 – Email Etiquette
 Drafted professional emails and created a social media Do’s and Don’ts checklist.
